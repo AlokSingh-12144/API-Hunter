@@ -2,7 +2,7 @@
 API Hunter is a client-side application that interfaces with the official GitHub REST API. This module fetches remote data via HTTP requests and render it to the DOM asynchronously.
 
 ## Live Demo
-[View Live Site](api-hunter-beta.vercel.app)
+[View Live Site](https://api-hunter-beta.vercel.app/)
 
 ## Screenshot
 ![screenshot](./assets/screenshot(1).PNG)
