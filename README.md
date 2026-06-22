@@ -5,9 +5,9 @@ API Hunter is a client-side application that interfaces with the official GitHub
 [View Live Site](api-hunter-beta.vercel.app)
 
 ## Screenshot
-![screenshot](./assets/screenshot(1).png)
-![screenshot](./assets/screenshot(2).png)
-![screenshot](./assets/screenshot(3).png)
+![screenshot](./assets/screenshot(1).PNG)
+![screenshot](./assets/screenshot(2).PNG)
+![screenshot](./assets/screenshot(3).PNG)
 
 ## Tech Stack
 HTML5, CSS3 (Flexbox + Grid), Vanilla JavaScript, GitHub REST API
